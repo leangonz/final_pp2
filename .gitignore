@@ -1,0 +1,10 @@
+/.classpath
+/*.project
+/.settings/*.prefs
+/target/classes/META-INF/*.MF
+/target/classes/META-INF/maven/ungs.file/translator/*.properties
+/target/classes/META-INF/maven/ungs.file/translator/*.xml
+/target/classes/*.ucls
+/target/classes/*.csv
+/target/classes/ungs/file/translator/*.class
+/target/test-classes/ungs/file/translator/*.class
